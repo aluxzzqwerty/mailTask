@@ -1,0 +1,128 @@
+{
+  "uid" : "65deb79ed1786a03",
+  "name" : "sentLetterValidation",
+  "fullName" : "com.epam.tests.MessageTest.sentLetterValidation",
+  "historyId" : "89d40e34531d103fb8b708e02960fd60",
+  "time" : {
+    "start" : 1665737094011,
+    "stop" : 1665737106547,
+    "duration" : 12536
+  },
+  "description" : "Logging into mail.ru and sending letter to protonmail user",
+  "descriptionHtml" : "<p>Logging into mail.ru and sending letter to protonmail user</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1665737093229,
+      "stop" : 1665737093962,
+      "duration" : 733
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "trackTest",
+    "time" : {
+      "start" : 1665737108756,
+      "stop" : 1665737108756,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "acceptAlert",
+    "time" : {
+      "start" : 1665737106610,
+      "stop" : 1665737108738,
+      "duration" : 2128
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1665737128865,
+      "stop" : 1665737128952,
+      "duration" : 87
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.epam.tests.MessageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.epam.tests.MessageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "sentLetterValidation"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Smoke"
+  }, {
+    "name" : "suite",
+    "value" : "MessageTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.epam.tests.MessageTest"
+  }, {
+    "name" : "host",
+    "value" : "alua-Nitro-AN515-52"
+  }, {
+    "name" : "thread",
+    "value" : "19005@alua-Nitro-AN515-52.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65deb79ed1786a03.json",
+  "parameterValues" : [ ]
+}

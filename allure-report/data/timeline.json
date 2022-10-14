@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "alua-Nitro-AN515-52",
+    "children" : [ {
+      "name" : "19005@alua-Nitro-AN515-52.main(1)",
+      "children" : [ {
+        "name" : "letterValidation",
+        "uid" : "82fdb2aa35b54a3b",
+        "parentUid" : "0bb3ff33822e9c1654f2558cb4c2a982",
+        "status" : "passed",
+        "time" : {
+          "start" : 1665737108762,
+          "stop" : 1665737128843,
+          "duration" : 20081
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "sentLetterValidation",
+        "uid" : "65deb79ed1786a03",
+        "parentUid" : "0bb3ff33822e9c1654f2558cb4c2a982",
+        "status" : "passed",
+        "time" : {
+          "start" : 1665737094011,
+          "stop" : 1665737106547,
+          "duration" : 12536
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0bb3ff33822e9c1654f2558cb4c2a982"
+    } ],
+    "uid" : "3bdc209a6f6bd2d621dc3aa058fcaa80"
+  } ],
+  "name" : "timeline"
+}

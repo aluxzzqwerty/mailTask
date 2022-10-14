@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Smoke",
+    "children" : [ {
+      "name" : "MessageTest",
+      "children" : [ {
+        "name" : "com.epam.tests.MessageTest",
+        "children" : [ {
+          "name" : "sentLetterValidation",
+          "uid" : "65deb79ed1786a03",
+          "parentUid" : "956303d1404bcc0b15f8d8945ebab3a5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1665737094011,
+            "stop" : 1665737106547,
+            "duration" : 12536
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "letterValidation",
+          "uid" : "82fdb2aa35b54a3b",
+          "parentUid" : "956303d1404bcc0b15f8d8945ebab3a5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1665737108762,
+            "stop" : 1665737128843,
+            "duration" : 20081
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "956303d1404bcc0b15f8d8945ebab3a5"
+      } ],
+      "uid" : "997e11351137427576eb6e74e56d1223"
+    } ],
+    "uid" : "26c3355bfe48b4d973f7dd61ae44b0c7"
+  } ],
+  "name" : "suites"
+}

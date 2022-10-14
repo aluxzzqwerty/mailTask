@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "com.epam.tests.MessageTest",
+    "children" : [ {
+      "name" : "sentLetterValidation",
+      "uid" : "65deb79ed1786a03",
+      "parentUid" : "186137b85355b9672d3ab27a6ae038e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665737094011,
+        "stop" : 1665737106547,
+        "duration" : 12536
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "letterValidation",
+      "uid" : "82fdb2aa35b54a3b",
+      "parentUid" : "186137b85355b9672d3ab27a6ae038e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665737108762,
+        "stop" : 1665737128843,
+        "duration" : 20081
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.epam.tests.MessageTest"
+  } ],
+  "name" : "packages"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Smoke">
+    <test name="MessageTest">
+        <classes>
+            <class name="com.epam.tests.MessageTest" />
+        </classes>
+    </test>
+</suite>

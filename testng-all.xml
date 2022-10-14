@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1">
+    <Tests>
+        <test name="LoginTest">
+            <classes>
+                <class name="com.epam.tests.LoginTest"> </class>
+            </classes>
+        </test>
+        <test name="MessageTest">
+            <classes>
+                <class name="com.epam.tests.MessageTest"> </class>
+            </classes>
+        </test>
+    </Tests>
+</suite>

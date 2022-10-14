@@ -1,0 +1,21 @@
+[ {
+  "uid" : "65deb79ed1786a03",
+  "name" : "sentLetterValidation",
+  "time" : {
+    "start" : 1665737094011,
+    "stop" : 1665737106547,
+    "duration" : 12536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82fdb2aa35b54a3b",
+  "name" : "letterValidation",
+  "time" : {
+    "start" : 1665737108762,
+    "stop" : 1665737128843,
+    "duration" : 20081
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
