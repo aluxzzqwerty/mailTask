@@ -5,18 +5,14 @@
             <PatternLayout
               pattern="%d [%t] %-5level %logger{36} - %msg%n%throwable"/>
         </Console>
+        <File name = "File" fileName="target/logs/framework.log">
+            <PatternLayout pattern="%d [%t] %-5level %logger{36} - %msg%n%throwable"/>
+        </File>
     </Appenders>
-    <appender name="file" class="org.apache.log4j2.FileAppender">
-        <param name="File" value="target/test-output/tests.log"/>
-        <param name="Append" value="true"/>
-        <layout class="org.apache.log4j2.PatternLayout">
-            <param name="ConversionPattern" value="%d [Thread: %15.15t}] %7p %c{1} - %m%n"/>
-        </layout>
-    </appender>
     <Loggers>
         <Root level="INFO">
             <AppenderRef ref="ConsoleAppender"/>
-            <AppenderRef ref="file"/>
+            <AppenderRef ref="File"/>
         </Root>
     </Loggers>
 </Configuration>
